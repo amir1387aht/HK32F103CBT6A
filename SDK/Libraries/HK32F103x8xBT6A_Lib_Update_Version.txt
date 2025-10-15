@@ -1,0 +1,8 @@
+/*
+* @file name: HK32F103x8xBT6A_Lib_Update_Version
+* @description: 本文件是用来描述HK32F103x8xBT6A系列芯片函数库版本列表
+* @author: AE Team
+*/
+
+V1.0.0/2024-01-08
+1. 首次发布

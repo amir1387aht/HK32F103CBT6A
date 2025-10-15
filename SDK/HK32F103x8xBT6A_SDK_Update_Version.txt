@@ -1,0 +1,40 @@
+/*
+* @file name: HK32F103x8xBT6A_SDK_Update_Version
+* @description: 本文件是用来描述HK32F103x8xBT6A系列芯片SDK的版本变更
+* @author: AE Team
+*/
+
+V1.0.2/2024-11-13
+1.Kei_Pack: HK32F103xxxxA_Keil_Pack_V1.0.0
+2.IAR_Pack: HK32F103xxxxA_IAR_Pack_V1.0.0
+3.Libraries: Libraries_V1.0.0
+4.Example: HK32F103(39A)VExxx_Ver1_Examples_V1.0.0
+5.Datasheet: HK32F103x8xBT6A数据手册_V1.8
+6.UserManual: HK32F103x8xBT6A用户手册_V1.7
+7.ApplicationNotes: HK32F103x8xBT6A系列应用笔记_V1.0.11.docx
+8.API: HK32F103xxxxA_API_V1.0.0
+9.开发板: HK32F103VE开发板_V1.0.0
+
+
+V1.0.1/2024-08-28
+1.Kei_Pack: HK32F103xxxxA_Keil_Pack_V1.0.0
+2.IAR_Pack: HK32F103xxxxA_IAR_Pack_V1.0.0
+3.Libraries: Libraries_V1.0.0
+4.Example: HK32F103(39A)VExxx_Ver1_Examples_V1.0.0
+5.Datasheet: HK32F103x8xBT6A数据手册_V1.7
+6.UserManual: HK32F103x8xBT6A用户手册_V1.6
+7.ApplicationNotes: HK32F103x8xBT6A系列应用笔记_V1.0.10.docx
+8.API: HK32F103xxxxA_API_V1.0.0
+9.开发板: HK32F103VE开发板_V1.0.0
+
+
+V1.0.0/2024-01-29
+1.Kei_Pack: HK32F103xxxxA_Keil_Pack_V1.0.0
+2.IAR_Pack: HK32F103xxxxA_IAR_Pack_V1.0.0
+3.Libraries: Libraries_V1.0.0
+4.Example: HK32F103(39A)VExxx_Ver1_Examples_V1.0.0
+5.Datasheet: HK32F103x8xBT6A_Datasheet_V1.3,HK32F103x8xBT6A数据手册_V1.6
+6.UserManual: HK32F103x8xBT6A用户手册_V1.4
+7.ApplicationNotes: HK32F103x8xBT6A系列应用笔记_V1.0.4.docx
+8.API: HK32F103xxxxA_API_V1.0.0
+9.开发板: HK32F103VE开发板_V1.0.0
