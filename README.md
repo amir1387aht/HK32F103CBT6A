@@ -1,6 +1,6 @@
 ## SDK
 
-* THIS REPO IS FOR ``` HK32F103CBT6A ```
+* THIS REPO IS FOR ``` HK32F103CBT6A ``` AND ``` HK32F103CBT6 ```
 
 ## Differents
 
